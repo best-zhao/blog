@@ -10,11 +10,4 @@ title: 我的Blog
 　　{% endfor %}
 </ul>
 <p>最新评论</p>
-<script>
-(function() {
-	var disqus_shortname = 'nolure';
-    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-})();
-</script>
+{%include comment.html%}
