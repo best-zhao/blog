@@ -7,7 +7,7 @@ body{padding-top:110px;background:#f4f4f4;font-family:'微软雅黑'}
 .g_head h1{font:800 46px 'Tangerine','arial';text-shadow:1px 1px 1px #eee}
 .g_head h2{color:#ccc;font-weight:400;font-size:13px}
 
-.art_list li{border-bottom:1px solid #ddd;border-top:1px solid #fff;padding:3px 0}
+.art_list li{border-bottom:1px solid #ccc;border-top:1px solid #fff;padding:6px 0}
 .art_list li:first-child{border-top:none}
 .art_list li:last-child{border-bottom:none}
 .art_list a{font-size:14px;color:#000}
