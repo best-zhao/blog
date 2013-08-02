@@ -3,9 +3,9 @@
   src:local('Tangerine'),url(http://themes.googleusercontent.com/static/fonts/tangerine/v3/HGfsyCL5WASpHOFnouG-RD8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
 }
 body{padding-top:110px;background:#f4f4f4;font-family:'微软雅黑'}
-.g_head{background:#333;color:#fff;position:fixed;top:0;left:0;width:100%;height:80px;padding:9px 0 0}
+.g_head{background:#444;color:#fff;position:fixed;top:0;left:0;width:100%;height:75px;padding:9px 0 0}
 .g_head h1{font:800 46px/1 'Tangerine','arial';text-shadow:1px 1px 1px #eee}
-.g_head h2{color:#ccc;font-weight:400;font-size:13px;line-height:1}
+.g_head h2{color:#ccc;font-weight:400;line-height:1}
 
 .art_list li{border-bottom:1px solid #ccc;border-top:1px solid #fff;padding:6px 0}
 .art_list li:first-child{border-top:none}
@@ -13,6 +13,6 @@ body{padding-top:110px;background:#f4f4f4;font-family:'微软雅黑'}
 .art_list a.t{font-size:14px;color:#000}
 .art_list a.c{color:#999}
 
-.art_view h2{font:22px 'microsoft yahei'}
+.art_view h2{font:22px '微软雅黑'}
 .art_view .art_content{font-size:14px;line-height:2}
 .art_view .art_content p{margin:0 0 15px;text-indent:2em}
