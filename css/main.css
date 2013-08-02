@@ -2,7 +2,7 @@
   font-family:'Tangerine';font-style:normal;font-weight:400;
   src:local('Tangerine'),url(http://themes.googleusercontent.com/static/fonts/tangerine/v3/HGfsyCL5WASpHOFnouG-RD8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
 }
-body{padding-top:11px;background:#f4f4f4;font-family:'微软雅黑'}
+body{padding-top:110px;background:#f4f4f4;font-family:'微软雅黑'}
 .g_head{background:#333;color:#fff;position:fixed;top:0;left:0;width:100%;height:90px}
 .g_head h1{font:800 46px 'Tangerine','arial';text-shadow:1px 1px 1px #eee}
 .g_head h2{color:#ccc;font-weight:400;font-size:13px}
