@@ -10,7 +10,8 @@ body{padding-top:110px;background:#f4f4f4;font-family:'微软雅黑'}
 .art_list li{border-bottom:1px solid #ccc;border-top:1px solid #fff;padding:6px 0}
 .art_list li:first-child{border-top:none}
 .art_list li:last-child{border-bottom:none}
-.art_list a{font-size:14px;color:#000}
+.art_list a.t{font-size:14px;color:#000}
+.art_list a.c{color:#999}
 
 .art_view h2{font:22px 'microsoft yahei'}
 .art_view .art_content{font-size:14px;line-height:2}

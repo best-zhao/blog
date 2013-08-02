@@ -5,7 +5,7 @@ title:
 <div class="page_all">
 	<ul class="art_list">
 	{% for post in site.posts %}
-	<li class="clearfix"><span class="gray9 fr">{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }} </a> <a href="{{ post.url }}#disqus_thread" class="gray9"></a></li>
+	<li class="clearfix"><span class="gray9 fr">{{ post.date | date_to_string }}</span> <a href="{{ post.url }}" class="t">{{ post.title }} </a> <a href="{{ post.url }}#disqus_thread" class="c"></a></li>
 	{% endfor %}
 	</ul>
 </div>
