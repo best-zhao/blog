@@ -2,10 +2,10 @@
   font-family:'Tangerine';font-style:normal;font-weight:400;
   src:local('Tangerine'),url(http://themes.googleusercontent.com/static/fonts/tangerine/v3/HGfsyCL5WASpHOFnouG-RD8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
 }
-body{padding-top:100px;background:#f4f4f4;font-family:'微软雅黑'}
-.g_head{background:#444;color:#fff;position:fixed;top:0;left:0;width:100%;height:75px;padding:8px 0 0}
-.g_head h1{font:800 46px/1 'Tangerine','arial';text-shadow:1px 1px 1px #eee}
-.g_head h2{color:#aaa;font-weight:400;line-height:1}
+body{padding-top:94px;background:#f4f4f4;font-family:'微软雅黑'}
+.g_head{background:#444;color:#fff;position:fixed;top:0;left:0;width:100%;height:72px;padding:8px 0 0}
+.g_head h1 a{font:800 46px/1 'Tangerine','arial';text-shadow:1px 1px 1px #ccc}
+.g_head h2{color:#888;font-weight:400;line-height:1}
 
 .art_list li{border-bottom:1px solid #ccc;border-top:1px solid #fff;padding:6px 0}
 .art_list li:first-child{border-top:none}
